@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/webhook",
+      "destination": "https://n8n.karrot.tech/webhook"
+    }
+  ]
+}
