@@ -103,7 +103,7 @@ export const ChatInput = ({
 
   return (
     <form onSubmit={handleSubmit} className="bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 w-full px-4 py-2">
-      <div className="max-w-[800px] mx-auto">
+      <div className="max-w-[900px] mx-auto">
         {previewImage && (
           <div className="relative inline-block mb-2">
             <div className="relative w-16 h-16 rounded-lg overflow-hidden">
